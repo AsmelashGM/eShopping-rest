@@ -1,0 +1,1 @@
+<%! public int crt=0; %>

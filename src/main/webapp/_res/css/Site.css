@@ -1,0 +1,48 @@
+
+.badge-red {
+  background-color: red;
+}
+.shopping-presentation{
+    background-clip: padding-box;
+    border: 5px solid #f9f9f9;
+    padding-bottom: 5px;
+    text-align: center;
+}
+.shopping-cost{
+     color: red; 
+     font-weight: bold;
+}
+.float-right{
+    float: right;
+}
+.float-left{
+    float: left;
+}
+.shopping-photo-lg{
+    height: 300px;
+}
+.shopping-photo-md{
+    height: 120px;
+}
+.shopping-photo-sm{
+    height: 50px;
+}
+.padding-top-5{
+    padding-top: 5px;
+}
+.padding-top-10{
+    padding-top: 10px;
+}
+.margin-bottom-15{
+    margin-bottom: 15px;
+}
+.hr-decorated{
+    height: 12px; 
+    border: 0; 
+    margin-top: 10px;
+    margin-bottom: 5px;
+    box-shadow: inset 0 2px 2px -2px rgba(0, 0, 0, 0.5);
+}
+a:hover{
+    text-decoration:none;
+}
